@@ -1,0 +1,9 @@
+1. Đọc hiểu được code php blah blah blah
+2. Nói mấy cái thực sự học được nhá
+-Hiểu được bản chất(hoặc là t nghĩ thế của những câu lệnh trong php)
+đặc biệt là về associative array (t thật sự đã dành 1 tiếng ngồi đọc về nó)
+-Hiểu được cách tạo database về tốn 30p để nhập 
+-Hiểu được cách hoạt động của workbench cùng những câu lệnh đơn giản
+chẳng bt ghi j nữa nhưng mà t chắc chắn là t đã học rất chăm cho đến 2h sáng và lôi con chatgpt ra để nó cứu cuộc đời t
+nma t hứa là t đã hiểu được code rồi
+3hr sáng rồi t đi ngủ đây
